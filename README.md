@@ -19,9 +19,6 @@
     <a href="https://sweetpumkin.tistory.com">
         <img src="https://img.shields.io/badge/Tistory-f89b00?style=for-the-badge&logo=Tistory&logoColor=white"> 
     </a>
-	
-[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=sweetpumkin&theme=default)](https://sweetpumkin.tistory.com)
-</div><br>
 
 
 
