@@ -20,7 +20,7 @@
         <img src="https://img.shields.io/badge/Tistory-f89b00?style=for-the-badge&logo=Tistory&logoColor=white"> 
     </a>
 	
-[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api/badge?name={sweetpumkin}&postId={123}&theme={santorini})](https://github.com/loosie/github-readme-tistory-card)
+[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api/badge?name={sweetpumkin}&postId={123}&theme={santorini})](https://sweetpumkin.tistory.com)
 
 
 
