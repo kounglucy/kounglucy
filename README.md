@@ -15,10 +15,12 @@
     </div>
     
 ### 📚 kounglucy blog 📚
-<div style="display:flex; flex-direction:row;">
+<div align=center>
     <a href="https://sweetpumkin.tistory.com">
         <img src="https://img.shields.io/badge/Tistory-f89b00?style=for-the-badge&logo=Tistory&logoColor=white"> 
     </a>
+    <br>
+     </div>
 
 
 
