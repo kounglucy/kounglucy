@@ -15,7 +15,7 @@
     </div>
     
 ### 📚 kounglucy blog 📚
-<div align=center>
+<div align=flex;>
     <a href="https://sweetpumkin.tistory.com">
         <img src="https://img.shields.io/badge/Tistory-f89b00?style=for-the-badge&logo=Tistory&logoColor=white"> 
     </a>
