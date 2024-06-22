@@ -22,20 +22,13 @@
     <br>
      </div>
 
-
-
-
-
-
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kounglucy&repo=github-readme-stats" />
+     
+<a href="https://github.com/kounglucy/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=kounglucy" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kounglucy&repo=convoychat" />
+<a href="https://github.com/kounglucy/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kounglucy&layout=compact&langs_count=8&card_width=320" />
 </a>
-
-
 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkounglucy&count_bg=%233D7EC8&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
